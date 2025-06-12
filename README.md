@@ -44,15 +44,15 @@ I'm a passionate [Your Role/Title] with [X] years of experience in [Your Field/S
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[bl0ckchaindev]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bl0ckchaindev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[bl0ckchaindev]&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bl0ckchaindev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[bl0ckchaindev]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl0ckchaindev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 Featured Projects
@@ -78,7 +78,7 @@ Brief description of what this project does and the technologies used.
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[bl0ckchaindev]&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bl0ckchaindev&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🌐 Connect with Me
@@ -95,7 +95,7 @@ Brief description of what this project does and the technologies used.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[bl0ckchaindev]&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bl0ckchaindev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
