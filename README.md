@@ -4,7 +4,7 @@
 
 I'm a passionate blockchain developer specializing in multi-chain ecosystems and decentralized applications. With expertise across EVM, Solana, TRON, TON, Sui, and other cutting-edge networks, I build robust smart contracts and innovative DeFi solutions.
 
-- 🔗 I'm currently building on **[Current Blockchain Project/Protocol]**
+- 🔗 I'm currently building on **Solana, Ethereum, Ton, Sui**
 - 🌱 I'm currently exploring **[New blockchain tech/Layer 2s you're learning]**
 - 👯 I'm looking to collaborate on **DeFi protocols, NFT marketplaces, and cross-chain solutions**
 - 💬 Ask me about **Smart contracts, DApp architecture, and blockchain integrations**
@@ -182,7 +182,7 @@ Decentralized exchange built on Sui blockchain using Move language.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ryptodevc)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
