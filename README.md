@@ -2,6 +2,7 @@
 
 ## 🚀 Blockchain Developer & Smart Contract Engineer
 
+
 I'm a passionate blockchain developer specializing in multi-chain ecosystems and decentralized applications. With expertise across EVM, Solana, TRON, TON, Sui, and other cutting-edge networks, I build robust smart contracts and innovative DeFi solutions.
 
 - 🔗 I'm currently building on **Solana, Ethereum, Ton, Sui**
