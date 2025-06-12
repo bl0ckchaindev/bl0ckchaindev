@@ -4,7 +4,7 @@
 
 I'm a passionate blockchain developer specializing in multi-chain ecosystems and decentralized applications. With expertise across EVM, Solana, TRON, TON, Sui, and other cutting-edge networks, I build robust smart contracts and innovative DeFi solutions.
 
-- 🔗 I'm currently building on **[Current Blockchain Project/Protocol]**
+- 🔗 I'm currently building on **Solana, Ethereum, Ton, Sui**
 - 🌱 I'm currently exploring **[New blockchain tech/Layer 2s you're learning]**
 - 👯 I'm looking to collaborate on **DeFi protocols, NFT marketplaces, and cross-chain solutions**
 - 💬 Ask me about **Smart contracts, DApp architecture, and blockchain integrations**
