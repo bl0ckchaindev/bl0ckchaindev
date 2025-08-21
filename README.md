@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] ⚡
+# Hi there, I'm a trading bot expert⚡
 
 ## 🚀 Blockchain Developer & Smart Contract Engineer
 
@@ -9,8 +9,8 @@ I'm a passionate blockchain developer specializing in multi-chain ecosystems and
 - 🌱 I'm currently exploring **[New blockchain tech/Layer 2s you're learning]**
 - 👯 I'm looking to collaborate on **DeFi protocols, NFT marketplaces, and cross-chain solutions**
 - 💬 Ask me about **Smart contracts, DApp architecture, and blockchain integrations**
-- 📫 How to reach me: **[Your email]**
-- ⚡ Fun fact: **[Something interesting about blockchain/crypto]**
+- 📫 How to reach me: **kryptodev7@gmail.com**
+- ⚡ Fun fact: **Football, Travel, Swim**
 
 ## 🔗 Blockchain Networks & Ecosystems
 
@@ -185,7 +185,7 @@ Decentralized exchange built on Sui blockchain using Move language.
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ryptodevc)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kryptodev7@gmail.com)
 
 ## 💡 Quote
 
@@ -202,5 +202,5 @@ Decentralized exchange built on Sui blockchain using Move language.
 </div>
 
 <div align="center">
-  🔗 From [Your Name](https://github.com/yourusername) | Blockchain Developer & DeFi Architect
+  🔗 From bl0ckchaindev(https://github.com/bl0ckchaindev) | Blockchain Developer & DeFi Architect
 </div>
